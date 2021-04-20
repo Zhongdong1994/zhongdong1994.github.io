@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhongdong Liu        (刘中东)"
+  name             : "Zhongdong Liu (刘中东)"
   avatar           : "profile.png"
-  bio              : "A fourth year PhD student at VT"
+  bio              : "PhD student at VT"
   location         : "Blacksburg, VA 24060, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
