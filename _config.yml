@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhongdong Liu / Site Title"
+title                    : "Zhongdong Liu / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
