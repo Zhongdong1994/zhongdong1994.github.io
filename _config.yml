@@ -86,7 +86,7 @@ author:
   location         : "Blacksburg, VA 24060, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=0B_flpcAAAAJ&hl=en"
   email            :  "zhongdong@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Zhongdong1994"
   google_plus      :
   keybase          :
   instagram        :
