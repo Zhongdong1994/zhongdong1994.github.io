@@ -2,14 +2,14 @@
 title: "Towards the Tradeoff Between Service Performance and Information Freshness"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt:
+date: 2019-05-01
+venue: 'Proceedings of IEEE ICC 2019'
+paperurl: 'https://zhongdong1994.github.io/files/trade_performance_freshness__ICC_.pdf'
+citation: 'Z. Liu and B. Ji, “Towards the Tradeoff Between Service Performance and Information Freshness,” Proceedings of IEEE ICC 2019, Shanghai, China, May 2019.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The last decade has witnessed an unprecedented growth in the demand for data-driven real-time services. These services are fueled by emerging applications that require rapidly injecting data streams and computing updated analytics results in real-time (or near-real-time). In many of such applications, the computing resources are often shared for processing both updates from information sources and queries from end users. This requires joint scheduling of updates and queries because the service provider needs to make a critical decision upon receiving a user query: either it responds immediately with currently available but possibly stale information, or it first processes new updates and then responds with fresher information. Hence, the tradeoff between \emph{service performance} (e.g., response time) and \emph{information freshness} naturally arises in this context. To that end, we propose a simple \emph{single-server two-queue model} that captures the coupled scheduling of updates and queries and aim to design scheduling policies that can properly address the important tradeoff between performance and freshness. Specifically, we consider the \emph{response time} as a performance metric and the \emph{Age of Information (AoI)} as a freshness metric. After demonstrating the limitations of the simplest First-Come-First-Served (FCFS) policy, we propose two \emph{threshold-based policies}: the Query-$k$ policy that prioritizes queries and the Update-$k$ policy that prioritizes updates. Then, we rigorously analyze both the response time and the \emph{Peak AoI (PAoI)} of the threshold-based policies. Further, we propose the Joint-$(M,N)$ policy, which allows flexibly prioritizing updates or queries through choosing different values of two thresholds $M$ and $N$. Finally, we conduct simulations to evaluate the response time and the PAoI of the proposed policies. The results show that our proposed threshold-based policies can effectively control the balance between performance and freshness.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://zhongdong1994.github.io/files/trade_performance_freshness__ICC_.pdf)
 
 Recommended citation: Z. Liu and B. Ji, “Towards the Tradeoff Between Service Performance and Information Freshness,” Proceedings of IEEE ICC 2019, Shanghai, China, May 2019.
