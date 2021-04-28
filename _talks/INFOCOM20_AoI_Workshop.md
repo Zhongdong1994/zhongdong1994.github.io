@@ -8,6 +8,6 @@ date: 2020-07-6
 location: "Virtual"
 ---
 
-In this talk, I introduced my work - ["Anti-Aging Scheduling in Single-Server Queues: A Systematic and Comparative Study"](https://zhongdong1994.github.io/publications/INFOCOM2020_AoI_Workshop), which is accepted by the IEEE INFOCOM 2020, Age-of-Information (AoI) Workshop. 
+In this talk, I introduced my work - ["Anti-Aging Scheduling in Single-Server Queues: A Systematic and Comparative Study"](https://zhongdong1994.github.io/publications/INFOCOM2020_AoI_Workshop), which was accepted by the IEEE INFOCOM 2020, Age-of-Information (AoI) Workshop. 
 
-[Download Slides here](https://zhongdong1994.github.io/files/Tradeoff_slides_ICC2019.pdf)
+[Download Slides here](https://zhongdong1994.github.io/files/INFOCOM20_AoI_Workshop_Zhongdong.pdf)
