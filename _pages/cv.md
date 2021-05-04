@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. (with honor) in Mathematics and Applied Mathematics, Northeast Forestry University, China, 2012-2016 
-* Ph.D in Computer and Information Science, Temple University, US, 2017-2020 (transderred to VT at 2020 Fall)
+* Ph.D in Computer and Information Science, Temple University, US, 2017-2020 (transferred to VT at 2020 Fall)
 * Ph.D in Computer Science, Virginia Tech, US, 2020 - now 
 
 Research experience
 ======
 * 2017 - now: Research Project, Age-of-Information Analysis and Scheduling in Information-Update Systems
   * Temple University & Virginia Tech, US, advised by [Dr.Bo Ji](https://people.cs.vt.edu/boji/).
-  * The Age-of-Information (AoI) is a fundamentally novel performance metric recently proposedfor measuring the freshness of information in information-update systems, which is shown to be significantly different to existing timeliness metrics such as delay and throughput. 
+  * The Age-of-Information (AoI) is a fundamentally novel performance metric recently proposed for measuring the freshness of information in information-update systems, which is shown to be significantly different to existing timeliness metrics such as delay and throughput. 
   * Through this project, we try to analyze AoI in various real-time systems and networks and propose AoI-efficient scheduling policies to improve the information freshness of those systems.
 
 * 2016 - 2017: Research Project, Downlink Beamforming Optimization in Massive MIMO with Stochastic Approximation
