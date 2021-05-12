@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhongdong Liu / Personal Website"
+title                    : "Zhongdong Liu (刘中东)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhongdong Liu (刘中东)"
+  name             : "Zhongdong Liu"
   avatar           : "profile.png"
   bio              : "PhD student at VT"
   location         : "Blacksburg, VA 24060, US"
