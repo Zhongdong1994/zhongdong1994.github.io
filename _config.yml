@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhongdong Liu"
   avatar           : "profile.png"
-  bio              : "PhD student at VT"
-  location         : "Blacksburg, VA 24060, US"
+  bio              : "Software Engineer at Meta"
+  location         : "Menlo Park, CA, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0B_flpcAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zhongdong-liu-01a98820a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
