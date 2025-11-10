@@ -9,6 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+
+You can also find my articles on https://scholar.google.com/citations?user=0B_flpcAAAAJ&hl=en.
+
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
