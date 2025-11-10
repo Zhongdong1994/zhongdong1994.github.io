@@ -23,6 +23,6 @@ News
 
 [January 2025] Worked as an Instructor in the Department of Computer Science, Virginia Tech.
 
-[April 2024] Earned my Ph.D. in Computer Science from Virginia Tech.
+[May 2024] Earned my Ph.D. in Computer Science from Virginia Tech.
 
 
