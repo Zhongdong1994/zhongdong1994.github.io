@@ -12,4 +12,14 @@ Over the past decade, data center networking (DCN) has undergone substantial tra
 
 Matryoshka, Meta’s production-scale DCN design system that bridges this gap. Matryoshka employs an intent-based, model-driven approach to systematically compile high-level DCN design intents into working switch configurations. Operational for over six years, Matryoshka has supported orders-of-magnitude growth in Meta’s DCN infrastructure, guiding the design nearly 900 DCNs across 18 distinct types, including the latest 100K-GPU supercluster for AI training. We share our experience in building and operating Matryoshka, highlighting how it empowers the rapid design and evolution of AI clusters nowadays.
 
-Team paper: [Cai, Yan, et al. "Matryoshka: Realizing Hyperscale Data Center Network Design for the {AI} Era." 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26). 2026.](https://www.usenix.org/conference/nsdi26/presentation/cai) 
+Team paper (published before I joined the team): [Cai, Yan, et al. "Matryoshka: Realizing Hyperscale Data Center Network Design for the {AI} Era." 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26). 2026.](https://www.usenix.org/conference/nsdi26/presentation/cai) 
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/e8St497tql8?start=1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Project demo video.
+</div>
