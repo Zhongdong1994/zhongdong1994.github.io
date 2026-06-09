@@ -1,18 +1,18 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"bo":
+  - firstname: ["bo", "bo ji", "Bo", "Bo Ji"]
+    url: https://people.cs.vt.edu/boji/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"binli":
+  - firstname: ["Bin Li", "Bin"]
+    url: https://sites.psu.edu/binli/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"yinsun":
+  - firstname: ["Yin Sun", "Yin"]
+    url: https://webhome.auburn.edu/~yzs0078/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"tomhou":
+  - firstname: ["Tom Hou", "Tom"]
+    url: https://www.cnsr.ictas.vt.edu/THou.html
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
