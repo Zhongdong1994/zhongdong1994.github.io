@@ -24,6 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  /* About page only: add breathing room before the "selected publications"
+     heading (the <h2> that immediately follows the news block).
+     Adjust the value to taste. */
+  .news + h2 {
+    margin-top: 2.5rem;
+  }
+</style>
+
 Hello! I'm Zhongdong Liu (刘中东). I’m currently a Software Engineer at Meta, where I work on datacenter design and configuration. Feel free to reach out if you’d like to connect or have any questions.
 
 I received my Ph.D. in Computer Science from Virginia Tech, where I was fortunate to be advised by [Dr.Bo Ji](https://people.cs.vt.edu/boji/). My research interests lie in the modeling, analysis, control, optimization, and learning of computer and network systems, with a particular focus on information-update systems.
