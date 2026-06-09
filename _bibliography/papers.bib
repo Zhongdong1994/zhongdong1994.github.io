@@ -9,6 +9,7 @@
   volume={12},
   number={5},
   pages={3480-3496},
+  abstract={We consider a discrete-time system where a resource-constrained source (e.g., a small sensor) transmits its time-sensitive data to a destination over a time-varying wireless channel. Each transmission incurs a fixed transmission cost (e.g., energy cost), and no transmission results in a staleness cost represented by the Age-of-Information. The source must balance the tradeoff between transmission and staleness costs. To address this challenge, we develop a robust online algorithm to minimize the sum of transmission and staleness costs, ensuring a worst-case performance guarantee. While online algorithms are robust, they are usually overly conservative and may have a poor average performance in typical scenarios. In contrast, by leveraging historical data and prediction models, machine learning (ML) algorithms perform well in average cases. However, they typically lack worst-case performance guarantees. To achieve the best of both worlds, we design a learning-augmented online algorithm that exhibits two desired properties: (i) consistency: closely approximating the optimal offline algorithm when the ML prediction is accurate and trusted; (ii) robustness: ensuring worst-case performance guarantee even ML predictions are inaccurate. Finally, we perform extensive simulations to show that our online algorithm performs well empirically and that our learning-augmented algorithm achieves both consistency and robustness.},
   keywords={Prediction algorithms;Costs;Optimization;Machine learning algorithms;Internet of Things;Robustness;Wireless sensor networks;Approximation algorithms;Uncertainty;Data integrity;Age-of-information;transmission cost;online algorithm;learning-augmented algorithm},
   doi={10.1109/TNSE.2025.3561736},
   arxiv={arXiv:2403.02573},
@@ -104,6 +105,42 @@ html={https://dl.acm.org/doi/abs/10.1145/3639830.3639849}
   month={July},
   html={https://ieeexplore.ieee.org/abstract/document/9868923}
 }
+
+@INPROCEEDINGS{9488894,
+  author={Liu, Zhongdong and Sang, Yu and Li, Bin and Ji, Bo},
+  booktitle={IEEE INFOCOM 2021 - IEEE Conference on Computer Communications}, 
+  title={A Worst-Case Approximate Analysis of Peak Age-of-Information Via Robust Queueing Approach}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-10},
+  abstract={A new timeliness metric, called Age-of-Information (AoI), has recently attracted a lot of research interests for real-time applications with information updates. It has been extensively studied for various queueing models based on the probabilistic approaches, where the analyses heavily depend on the properties of specific distributions (e.g., the memoryless property of the exponential distribution or the i.i.d. assumption). In this work, we take an alternative new approach, the robust queueing approach, to analyze the Peak Age-of-Information (PAoI). Specifically, we first model the uncertainty in the stochastic arrival and service processes using uncertainty sets. This enables us to approximate the expected PAoI performance for very general arrival and service processes, including those exhibiting heavy-tailed behaviors or correlations, where traditional probabilistic approaches cannot be applied. We then derive a new bound on the PAoI in the single-source single-server setting. Furthermore, we generalize our analysis to two-source single-server systems with symmetric arrivals, which involves new challenges (e.g., the service times of the updates from two sources are coupled in one single uncertainty set). Finally, through numerical experiments, we show that our new bounds provide a good approximation for the expected PAoI. Compared to some well-known bounds in the literature (e.g., one based on Kingman’s bound under the i.i.d. assumption) that tends to be inaccurate under light load, our new approximation is accurate under both light and high loads, both of which are critical scenarios for the AoI performance.},
+  keywords={Measurement;Analytical models;Uncertainty;Exponential distribution;Stochastic processes;Probabilistic logic;Real-time systems},
+  doi={10.1109/INFOCOM42981.2021.9488894},
+  ISSN={2641-9874},
+  month={May},
+  html={https://ieeexplore.ieee.org/abstract/document/9488894},
+  arxiv={arXiv:2302.06719}
+}
+
+@ARTICLE{9406449,
+  author={Liu, Zhongdong and Huang, Liang and Li, Bin and Ji, Bo},
+  journal={Journal of Communications and Networks}, 
+  title={Anti-aging scheduling in single-server queues: A systematic and comparative study}, 
+  year={2021},
+  volume={23},
+  number={2},
+  pages={91-105},
+  abstract={The age of information (AoI) is a new performance metric recently proposed for measuring the freshness of information in information-update systems. In this work, we conduct a systematic and comparative study to investigate the impact of scheduling policies on the AoI performance in single-server queues and provide useful guidelines for the design of AoI-efficient scheduling policies. Specifically, we first perform extensive simulations to demonstrate that the update-size information can be leveraged for achieving a substantially improved AoI compared to non-size-based (orarrival-time-based) policies. Then, by utilizing both the update-size and arrival-time information, we propose three AoI-based policies. Observing improved AoI performance of policies that allow service preemption and that prioritize informative updates, we further propose preemptive, informative, AoI-based scheduling policies. Our simulation results show that such policies empirically achieve the best AoI performance among all the considered policies. However, compared to the best delay-efficient policies (such as shortest remaining processing time (SRPT)), the AoI improvement is rather marginal in the settings with exogenous arrivals. Interestingly, we also prove sample-path equivalence between some size-based policies and AoI-based policies. This provides an intuitive explanation for why some size-based policies (such as SRPT) achieve a very good AoI performance.},
+  keywords={Guidelines;Delays;Scheduling;Systematics;Queueing analysis;Information age;Simulation;Age of information;G/G/1 Queues;scheduling policies;update-size information},
+  doi={10.23919/JCN.2021.000005},
+  ISSN={1976-5541},
+  month={April},
+  html={https://ieeexplore.ieee.org/abstract/document/9406449},
+  arxpv={arXiv:2003.04271}
+}
+
+
 
 
 
