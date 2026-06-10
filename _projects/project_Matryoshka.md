@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project Matryoshka
-description: My first project at Meta
+title: Matryoshka
+description: My first project at Meta. 
 img: assets/img/12.jpg
 importance: 1
 category: work
