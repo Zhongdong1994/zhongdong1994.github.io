@@ -18,7 +18,5 @@ To harness the best of both worlds, we develop a unified learning-augmented algo
 
 
 Papers (can be found under publication page: [https://zhongdong1994.github.io/publications/](https://zhongdong1994.github.io/publications/)): 
-
 [1] Liu, Zhongdong, et al. "Learning-augmented online minimization of age of information and transmission costs." IEEE Transactions on Network Science and Engineering (2025).
-
 [2] Zhang, Keyuan, et al. "Learning-augmented online algorithm for two-level ski-rental problem." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 18. 2024.
