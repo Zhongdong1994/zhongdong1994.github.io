@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-08'
 papers:
   0B_flpcAAAAJ:IjCSPb-OGe4C:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: Toward optimal tradeoff between data freshness and update cost in information-update systems
     year: '2022'
   0B_flpcAAAAJ:Se3iqnhoufwC:
-    citations: 6
+    citations: 8
     title: Learning-augmented online minimization of age of information and transmission costs
     year: '2025'
   0B_flpcAAAAJ:Tyk-4Ss8FVUC:
@@ -58,6 +58,6 @@ papers:
     title: IEEE INFOCOM 2022 Poster TPC
     year: Unknown Year
   0B_flpcAAAAJ:zYLM7Y9cAGgC:
-    citations: 48
+    citations: 49
     title: 'Waiting but not aging: Optimizing information freshness under the pull model'
     year: '2020'
