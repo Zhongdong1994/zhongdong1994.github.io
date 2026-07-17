@@ -8,14 +8,10 @@ year: 2025
 term: Summer
 location: Virginia Tech (Online)
 course_id: CS 4104
-syllabus: https://drive.google.com/file/d/1Xk4B3G4vPZO7j5pKMZNbc2wanW-dyVK4/view?usp=sharing
 schedule:
   - week: "1"
     topic: Course Overview & Introduction (Ch. 1)
     description: Course logistics, stable matching, and representative algorithmic problems.
-    materials:
-      - name: Syllabus
-        url: https://drive.google.com/file/d/1Xk4B3G4vPZO7j5pKMZNbc2wanW-dyVK4/view?usp=sharing
 
   - week: "2"
     topic: Algorithm Analysis (Ch. 2)
@@ -68,7 +64,3 @@ CS 3114 (Data Structures and Algorithms, grade of C or better), plus MATH 3134 (
 
 - **Homework — 70%.** 6–7 problem sets typeset in LaTeX. Each algorithm answer required pseudocode, a proof of correctness/optimality, and a running-time analysis. Assignments were due every two weeks.
 - **Comprehensive final exam — 30%.**
-
-### Materials
-
-- **Syllabus:** [CS 4104 Syllabus — Summer 2025 (PDF)](https://drive.google.com/file/d/1Xk4B3G4vPZO7j5pKMZNbc2wanW-dyVK4/view?usp=sharing)

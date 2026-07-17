@@ -8,7 +8,6 @@ year: 2025
 term: Spring
 location: Virginia Tech, Blacksburg, VA
 course_id: CS 1044
-syllabus: https://drive.google.com/file/d/1qVxbSU0jTX1VQ6ewCBRUkC0QlXwws2_b/view?usp=sharing
 ---
 
 ## Course Overview
@@ -47,7 +46,3 @@ I was the **Instructor of Record** for CS 1044 Introduction to Programming in C+
 | Final exam | 20% |
 
 Exams were open-book and open-notes, but closed-internet and closed-compiler. Late work followed a graduated penalty (in-class exercises −5%/hour; homework −20%/day up to three days).
-
-### Materials
-
-- **Syllabus:** [CS 1044 Syllabus — Spring 2025](https://drive.google.com/file/d/1qVxbSU0jTX1VQ6ewCBRUkC0QlXwws2_b/view?usp=sharing)
