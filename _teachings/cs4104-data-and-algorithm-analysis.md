@@ -1,9 +1,9 @@
 ---
 layout: course
 title: CS 4104 Data and Algorithm Analysis
-description: Instructor of Record for CS 4104 at Virginia Tech (Summer 2025) — design and analysis of efficient algorithms.
+description: Instructor for CS 4104 at Virginia Tech (Summer 2025) — design and analysis of efficient algorithms.
 instructor: Zhongdong Liu
-role: Instructor of Record
+role: Instructor
 year: 2025
 term: Summer
 location: Virginia Tech (Online)
@@ -44,9 +44,9 @@ schedule:
 
 ## Course Overview
 
-I was the **Instructor of Record** for CS 4104 Data and Algorithm Analysis at Virginia Tech in **Summer 2025**. The course gives students an understanding of the principles and techniques used in the design and analysis of efficient algorithms, emphasizing critical thinking, problem-solving, and rigorous analysis. Core topics span Greedy Algorithms, Divide and Conquer, Dynamic Programming, and Network Flow, taught through a selection of classic algorithms.
+I was the **Instructor** for CS 4104 Data and Algorithm Analysis at Virginia Tech in **Summer 2025**. The course gives students an understanding of the principles and techniques used in the design and analysis of efficient algorithms, emphasizing critical thinking, problem-solving, and rigorous analysis. Core topics span Greedy Algorithms, Divide and Conquer, Dynamic Programming, and Network Flow, taught through a selection of classic algorithms.
 
-**Role:** Instructor of Record (full responsibility for lectures, course design, assessments, and TA supervision)  
+**Role:** Instructor (full responsibility for lectures, course design, assessments, and TA supervision)  
 **Term:** Summer 2025  
 **Delivery:** Online (synchronous, Tue & Thu)  
 **Teaching assistants supervised:** 2

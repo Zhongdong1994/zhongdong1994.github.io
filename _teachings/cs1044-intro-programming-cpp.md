@@ -1,9 +1,9 @@
 ---
 layout: course
 title: CS 1044 Introduction to Programming in C++
-description: Instructor of Record for CS 1044 at Virginia Tech (Spring 2025) — introductory programming in C++.
+description: Instructor for CS 1044 at Virginia Tech (Spring 2025) — introductory programming in C++.
 instructor: Zhongdong Liu
-role: Instructor of Record
+role: Instructor
 year: 2025
 term: Spring
 location: Virginia Tech, Blacksburg, VA
@@ -12,9 +12,9 @@ course_id: CS 1044
 
 ## Course Overview
 
-I was the **Instructor of Record** for CS 1044 Introduction to Programming in C++ at Virginia Tech in **Spring 2025** — a first programming course for students across the university. The course builds a foundation in programming through hands-on practice in C++, with a heavy emphasis on writing, testing, and debugging real code every week.
+I was the **Instructor** for CS 1044 Introduction to Programming in C++ at Virginia Tech in **Spring 2025** — a first programming course for students across the university. The course builds a foundation in programming through hands-on practice in C++, with a heavy emphasis on writing, testing, and debugging real code every week.
 
-**Role:** Instructor of Record (full responsibility for lectures, course design, assessments, and TA supervision)  
+**Role:** Instructor (full responsibility for lectures, course design, assessments, and TA supervision)  
 **Term:** Spring 2025  
 **Delivery:** In person, Torgersen 1060 (Mon & Wed)  
 **Teaching assistants supervised:** 4
