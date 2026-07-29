@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-29'
 papers:
   0B_flpcAAAAJ:IjCSPb-OGe4C:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: Toward optimal tradeoff between data freshness and update cost in information-update systems
     year: '2022'
   0B_flpcAAAAJ:Se3iqnhoufwC:
-    citations: 8
+    citations: 7
     title: Learning-augmented online minimization of age of information and transmission costs
     year: '2025'
   0B_flpcAAAAJ:Tyk-4Ss8FVUC:
@@ -46,11 +46,11 @@ papers:
     title: Learning-augmented online minimization of age of information and transmission costs
     year: '2024'
   0B_flpcAAAAJ:qjMakFHDy7sC:
-    citations: 15
+    citations: 16
     title: Towards the tradeoff between service performance and information freshness
     year: '2019'
   0B_flpcAAAAJ:roLk4NBRz8UC:
-    citations: 24
+    citations: 25
     title: Toward optimal tradeoff between data freshness and update cost in information-update systems
     year: '2023'
   0B_flpcAAAAJ:ufrVoPGSRksC:
