@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-24'
 papers:
   0B_flpcAAAAJ:IjCSPb-OGe4C:
     citations: 1
@@ -50,7 +50,7 @@ papers:
     title: Towards the tradeoff between service performance and information freshness
     year: '2019'
   0B_flpcAAAAJ:roLk4NBRz8UC:
-    citations: 26
+    citations: 27
     title: Toward optimal tradeoff between data freshness and update cost in information-update systems
     year: '2023'
   0B_flpcAAAAJ:ufrVoPGSRksC:
